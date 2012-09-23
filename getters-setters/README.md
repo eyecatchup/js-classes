@@ -17,3 +17,8 @@ var Playable = util.Class.create({
 
 2 error(s), 0 warning(s)
 
+
+utilClass.min-simple.js
+=======================
+- Google Closure Compiler fails to minify when not using ADVANCED_OPTIMIZATIONS
+- same errors as with ADVANCED_OPTIMIZATIONS

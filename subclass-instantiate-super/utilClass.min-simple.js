@@ -1,0 +1,1 @@
+var Playable=util.Class.create({init:function(a){this.title=a;this.log=[]},play:function(){this.log.unshift("Playing: "+this.title)}}),TVShow=Playable.extend({play:function(){this._super()}}),show=new TVShow("House of Cards");show.play();

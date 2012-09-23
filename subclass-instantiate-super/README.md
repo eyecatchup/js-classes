@@ -30,3 +30,9 @@ utilClass.js:15: WARNING - dangerous use of the global this object
         ^
 
 0 error(s), 5 warning(s)
+
+
+utilClass.min-simple.js
+=======================
+- Google Closure Compiler succeeds without ADVANCED_OPTIMIZATIONS
+- code executes correctly
