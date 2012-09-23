@@ -1,7 +1,5 @@
 var Playable = util.Class.create({
 
-    log: [],
-
     get title() {
         return this._title;
     },
@@ -12,6 +10,7 @@ var Playable = util.Class.create({
 
     init: function(title) {
         this.title = title;
+        this.log = [];
     },
 
     play: function() {
