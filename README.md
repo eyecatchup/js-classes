@@ -20,7 +20,8 @@ We're using Maximally Minimal Classes as outlined by TC39: http://wiki.ecmascrip
 To generate JavaScript, I'm using Harmonizr to transpile: https://github.com/jdiamond/harmonizr
 
 
-JSPerf results
-===============
+Comparisons and JSPerf results
+==============================
 - Simple-define-instantiate-invoke: http://jsperf.com/simple-define-instantiate-invoke
+- Simple-subclass-instantiate: http://jsperf.com/simple-subclass-instantiate
 
