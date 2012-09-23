@@ -1,16 +1,13 @@
 class Playable {
     constructor(title) {        
-        this.title = title
+        this.title = title;
+        this.log = [];
     }    
 
     play() {        
         this.log.unshift('Playing: ' + this.title);
     }
 }
-
-Playable.prototype.title = '';
-Playable.prototype.log = [];
-
 
 class TVShow extends Playable {
     constructor(title) {

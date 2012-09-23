@@ -1,9 +1,8 @@
 var Playable = util.Class.create({
-    title: '',
-    log: [],
-
+    
     init: function(title) {
         this.title = title;
+        this.log = [];
     },
 
     play: function() {
