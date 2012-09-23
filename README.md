@@ -22,6 +22,6 @@ To generate JavaScript, I'm using Harmonizr to transpile: https://github.com/jdi
 
 Comparisons and JSPerf results
 ==============================
-- Simple-define-instantiate-invoke: http://jsperf.com/simple-define-instantiate-invoke
-- Simple-subclass-instantiate: http://jsperf.com/simple-subclass-instantiate
+- define-instantiate-invoke: http://jsperf.com/simple-define-instantiate-invoke
+- subclass-instantiate-super: http://jsperf.com/simple-subclass-instantiate
 
