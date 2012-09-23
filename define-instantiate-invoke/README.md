@@ -1,11 +1,11 @@
-es6-transpiled.min
-==================
+es6-transpiled.min.js
+=====================
 - Google Closure Compiler with ADVANCED_OPTIMIZATIONS turned on. 
 - code executes correctly
 
 
-utilClass.min
-=============
+utilClass.min.js
+================
 - utilClass with ADVANCED_OPTIMZATIONS generates 4 warnings (below)
 - code fails to execute
 
