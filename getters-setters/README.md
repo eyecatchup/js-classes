@@ -1,3 +1,8 @@
+JSPerf
+======
+http://jsperf.com/getters-setters/2
+
+
 es6-transpiled.min
 ==================
 - Google Closure Compiler succeeds with ADVANCED_OPTIMIZATIONS turned on. 

@@ -1,3 +1,8 @@
+JSPerf
+======
+http://jsperf.com/simple-define-instantiate-invoke/2
+
+
 es6-transpiled.min.js
 =====================
 - Google Closure Compiler with ADVANCED_OPTIMIZATIONS turned on. 

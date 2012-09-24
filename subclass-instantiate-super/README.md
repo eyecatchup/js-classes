@@ -1,3 +1,8 @@
+JSPerf
+======
+http://jsperf.com/simple-subclass-instantiate/2
+
+
 e6-transpiled.min.js
 ====================
 - Google Closure Compiler with ADVANCED_OPTIMIZATIONS turned on. 
