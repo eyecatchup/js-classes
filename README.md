@@ -25,4 +25,5 @@ Comparisons and JSPerf results
 - define-instantiate-invoke: http://jsperf.com/simple-define-instantiate-invoke/2
 - subclass-instantiate-super: http://jsperf.com/simple-subclass-instantiate/2
 - getters-setters: http://jsperf.com/getters-setters/2
+- method-invocation: http://jsperf.com/js-classes-method-invocation
 
